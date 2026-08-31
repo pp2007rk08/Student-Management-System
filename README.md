@@ -1,38 +1,24 @@
-# Student Management System
+# Student Management & CGPA Dashboard
 
-A simple *Student Management System* developed using Python.  
-This project is designed to manage student information and perform basic student-related operations using a database.
+A Python-based Student Management System built using Streamlit and SQLite.
 
-## 📌 Project Overview
+## Features
 
-The Student Management System provides a simple way to manage student records. It uses Python for the application logic and a database for storing and managing student information.
+- Add students
+- View students
+- Delete students
+- Add subject marks
+- Calculate grades
+- Calculate SGPA
+- Student performance dashboard
+- SGPA visualization
+- SQLite database
 
-## ✨ Features
+## Technologies Used
 
-- Add student records
-- View student records
-- Update student information
-- Delete student records
-- Perform student-related calculations
-- Store student data in a database
-- Simple and easy-to-use system
-
-## 🛠️ Technologies Used
-
-- *Python*
-- *Database / SQL*
-- *Python Virtual Environment*
-- *Git*
-- *GitHub*
-
-## 📂 Project Structure
-
-```text
-Student-Management-System/
-│
-├── app.py
-├── calculations.py
-├── database.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+- Python
+- Streamlit
+- SQLite
+- Pandas
+- Git
+- GitHub
